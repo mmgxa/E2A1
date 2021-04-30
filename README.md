@@ -1,15 +1,15 @@
 # E2A1
 
-## What is a neural network neuron?
+## 1. What is a neural network neuron?
 
 
-## What is the use of the learning rate?
+## 2. What is the use of the learning rate?
 
 
-## How are weights initialized?
+## 3. How are weights initialized?
 
 
-## What is "loss" in a neural network?
+## 4. What is "loss" in a neural network?
 
 
-## What is the "chain rule" in gradient flow?
+## 5. What is the "chain rule" in gradient flow?
